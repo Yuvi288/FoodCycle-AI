@@ -1,0 +1,38 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Ignore all build folders
+**/build/
+
+# Android Studio files
+.idea/
+
+# Local machine configuration
+local.properties
+
+# Native build files
+.externalNativeBuild/
+.cxx/
+
+# Private signing keys
+*.jks
+*.keystore
+
+# Firebase service account credentials
+service-account*.json
+
+# Log files
+*.log
